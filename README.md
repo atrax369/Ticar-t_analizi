@@ -1,5 +1,5 @@
 # Ticar-t_analizi
-icarət datası üzərində apardığım analiz layihəsini bitirdim. Sizinlə bu müddətdə tam olaraq nələr etdiyimi və nələr öyrəndiyimi paylaşmaq istəyirəm.
+### icarət datası üzərində apardığım analiz layihəsini bitirdim. Sizinlə bu müddətdə tam olaraq nələr etdiyimi və nələr öyrəndiyimi paylaşmaq istəyirəm.
 
  ## Layihədə nələr etdim?
 
@@ -19,4 +19,4 @@ Müştərilərin hansı platformadan (Android, Desktop və s.) daha çox istifad
 
 ## Mənim üçün ən vacib nəticə: Analiz göstərdi ki, müştərilərin çoxu Android tətbiqinə üstünlük verir və onlayn satışlar ildən-ilə oflayn satışları geridə qoymağa başlayıb. 
 
-#DataAnalizi #Python #DataScience #MüştəriAnalizi #ÖyrənməyəDavam
+
